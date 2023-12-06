@@ -1,6 +1,6 @@
 Name:		texlive-fbox
-Version:	62126
-Release:	2
+Version:	69041
+Release:	1
 Summary:	Extended \fbox macro from standard LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fbox
