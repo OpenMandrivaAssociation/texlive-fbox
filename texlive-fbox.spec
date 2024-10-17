@@ -3,7 +3,7 @@ Version:	69041
 Release:	1
 Summary:	Extended \fbox macro from standard LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fbox
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fbox.doc.r%{version}.tar.xz
